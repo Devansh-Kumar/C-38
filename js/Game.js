@@ -28,7 +28,7 @@ class Game {
     }
     car1 = createSprite(100,200);
     car2 = createSprite(300,200);
-    car3 = createsprite(500,200);
+    car3 = createSprite(500,200);
     car4 = createSprite(700,200);
     cars = [car1,car2,car3,car4]
   }
